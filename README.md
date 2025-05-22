@@ -17,13 +17,9 @@ A full-stack application to summarize your todo list items using OpenAI and send
 
 - **Frontend:** React  
 - **Backend:** Node.js, Express  
-- **APIs:** OpenAI API for summarization, Slack Webhooks for messaging
 
----
 
-## Getting Started
 
-### Prerequisites
 
 - Node.js (v14 or above)  
 - npm or yarn  
